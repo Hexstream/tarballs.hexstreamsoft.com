@@ -19,5 +19,6 @@ incognito-keywords
 symbol-namespaces
 clhs
 enhanced-boolean
+fakenil
 cesdi
 place-utils
