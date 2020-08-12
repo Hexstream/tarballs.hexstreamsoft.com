@@ -19,6 +19,7 @@ incognito-keywords
 symbol-namespaces
 clhs
 enhanced-boolean
+enhanced-find-class
 fakenil
 cesdi
 place-utils
