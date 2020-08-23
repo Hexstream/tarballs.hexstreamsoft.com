@@ -16,6 +16,7 @@ parse-number-range
 bubble-operator-upwards
 cesdi
 enhanced-find-class
+class-options
 definitions-systems
 incognito-keywords
 symbol-namespaces
