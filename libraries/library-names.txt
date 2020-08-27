@@ -4,6 +4,7 @@ trivial-jumptables
 with-output-to-stream
 enhanced-eval-when
 enhanced-multiple-value-bind
+evaled-when
 macro-level
 with-shadowed-bindings
 first-time-value
