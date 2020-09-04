@@ -24,4 +24,5 @@ symbol-namespaces
 clhs
 enhanced-boolean
 fakenil
+simple-guess
 place-utils
