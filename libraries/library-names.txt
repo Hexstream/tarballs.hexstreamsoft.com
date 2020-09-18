@@ -18,6 +18,7 @@ bubble-operator-upwards
 cesdi
 enhanced-find-class
 class-options
+compatible-metaclasses
 definitions-systems
 incognito-keywords
 symbol-namespaces
