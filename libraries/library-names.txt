@@ -19,6 +19,7 @@ cesdi
 enhanced-find-class
 class-options
 compatible-metaclasses
+object-class
 definitions-systems
 incognito-keywords
 symbol-namespaces
