@@ -25,6 +25,7 @@ incognito-keywords
 symbol-namespaces
 clhs
 enhanced-boolean
+enhanced-typep
 fakenil
 simple-guess
 place-utils
