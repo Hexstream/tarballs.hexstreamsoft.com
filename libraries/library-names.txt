@@ -30,3 +30,4 @@ fakenil
 simple-guess
 place-utils
 inheriting-readers
+shared-preferences
