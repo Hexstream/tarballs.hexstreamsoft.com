@@ -32,3 +32,4 @@ place-utils
 inheriting-readers
 shared-preferences
 enhanced-defclass
+canonicalized-initargs
