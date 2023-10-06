@@ -3,6 +3,7 @@ positional-lambda
 trivial-jumptables
 with-output-to-stream
 enhanced-eval-when
+enhanced-unwind-protect
 enhanced-multiple-value-bind
 evaled-when
 macro-level
